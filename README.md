@@ -1,2 +1,2 @@
-# AIPortfolio
+# AIProjects
 Collections of projects
